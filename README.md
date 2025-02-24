@@ -112,6 +112,10 @@ curl https://ifconfig.co --socks5 127.0.0.1:2020 --proxy-user sockd:sockd
 ```
 wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh
 ```
+国内服务器
+```
+wget --no-check-certificate https://gh-proxy.com/raw.github.com/Lozy/danted/master/install.sh -O install.sh
+```
 
 
 #### 2. [可选] 修改 默认参数
