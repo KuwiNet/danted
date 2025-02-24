@@ -2,7 +2,7 @@
 **Dante socks5 server (v1.3.2/v1.4.2) auto-install and management script**
 
 
-## Update
+## 更新
 
 > #### 2022/11/26
 > Upgrade default version for Debian as 1.4.2
@@ -10,7 +10,7 @@
 > #### 2022/12/22
 > Upgrade default version for Debian as 1.4.3
 
-## About
+## 关于
 To build a socks5 server, we have lots of open-source programs to reach that, [Dante](https://www.inet.no/dante/) is one of them.
 I have been using Dante for years and starting to write this auto-install and management script two years ago.
 This is the second update to match the systemd and new OS release like Debian 8 , CentOS 7.
